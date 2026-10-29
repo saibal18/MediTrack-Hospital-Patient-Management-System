@@ -83,6 +83,7 @@ The database is named `MediTrack` and contains five core tables.
                     amounts and                            `Appointments`
                     payment details                        
   --------------------------------------------------------------------------
+<img width="1288" height="1216" alt="image" src="https://github.com/user-attachments/assets/d4a214a6-2cd6-43f3-94d7-a2e9a638477a" />
 
 ### Table columns
 
